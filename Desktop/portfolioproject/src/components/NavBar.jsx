@@ -3,6 +3,7 @@ import React from 'react'
 import  { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faBars} from '@fortawesome/free-solid-svg-icons';
 
+
 const NavBar = () => {
     return (
         <nav class="navbar navbar-expand-lg navbar-light bg-dark">
